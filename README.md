@@ -39,7 +39,7 @@ In the cave, you find glowing crystals. A guardian appears.
 #### **Scene 3A2: Leaving the Door**
 You turn back, but the door whispers secrets you can't ignore. 
 **Door:** "If you seek adventure, return to me with courage."
-- **A2a)** Return to the door.
+- **A2a)** Return to the door. (Send to Scene 3A1: The Cave Adventure)
 - **A2b)** Ignore it and leave.
 
 #### **Scene 3B1: The Cave Quest**
