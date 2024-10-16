@@ -61,10 +61,10 @@ The historian tells you about an ancient forest where the key might be hidden.
 #### **Ending 1: The Riddle Solved  (Good Ending)**
 If you answer the riddle correctly (Scene 3A1a), the guardian rewards you with the crystal key. You unlock the door and discover a world of magic.
 
-#### **Ending 2: The Door Remains Closed**
+#### **Ending 2: The Door Remains Closed (Neutral Ending)**
  If you ignore the door's call (Scene 3A2b), you leave without knowing the adventure that awaited you. The door remains locked forever.
 
-#### **Ending 3: The Forest Spirits**
+#### **Ending 3: The Forest Spirits (Good Ending)**
 If you venture into the forest (Scene 3B2a) and face the spirits bravely, they grant you the crystal key. You return to unlock the door, unveiling a hidden realm of wonder.
 
 #### **Ending 4: Cursed (Bad Ending)**
