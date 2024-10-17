@@ -45,4 +45,16 @@
 .index-Body a {
   text-decoration: none;
 }
+
 /* Scene 1*/
+
+.scene1-Background{
+    background-color: black;
+    display: block;
+    justify-content: center;
+}
+.image-container2{
+    background-color: aliceblue;
+    height: 500px;
+    width: 500px;
+}
