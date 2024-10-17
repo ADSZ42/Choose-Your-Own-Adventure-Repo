@@ -48,13 +48,39 @@
 
 /* Scene 1*/
 
-.scene1-Background{
-    background-color: black;
-    display: block;
-    justify-content: center;
+.scene1-Background {
+  background-color: black;
 }
-.image-container2{
-    background-color: aliceblue;
-    height: 500px;
-    width: 500px;
+
+.image-Container2 {
+  background-color: aliceblue;
+  margin: auto;
+  height: 600px;
+  width: 1000px;
+  position: relative;
+}
+.image-Container2 img {
+  height: 100%;
+  width: 100%;
+}
+.text-strip {
+  position: absolute;
+  background-color: grey;
+  height: 200px;
+  width: 960px;
+  top: 5em;
+  opacity: 60%;
+}
+.text-strip h1 {
+  color: white;
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+.answer-Box {
+  height: 200px;
+  width: 55%;
+  margin: auto;
+  background-color: white;
 }
