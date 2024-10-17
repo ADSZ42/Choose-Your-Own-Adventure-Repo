@@ -33,26 +33,26 @@ You decide to look for a crystal key. You remember an old legend about a hidden 
 #### **Scene 3A1: The Cave Adventure**
 In the cave, you find glowing crystals. A guardian appears. 
 **Guardian:** "To claim the crystal key, you must answer my riddle: What has keys but can't open locks?"
-- **A1a)** "A piano!"
-- **A1b)** "A map!"
+- **A1a)** "A piano!" (Ending 1)
+- **A1b)** "A map!" (Ending 4)
 
 #### **Scene 3A2: Leaving the Door**
 You turn back, but the door whispers secrets you can't ignore. 
 **Door:** "If you seek adventure, return to me with courage."
 - **A2a)** Return to the door. (Send to Scene 3A1: The Cave Adventure)
-- **A2b)** Ignore it and leave.
+- **A2b)** Ignore it and leave. (Ending 2)
 
 #### **Scene 3B1: The Cave Quest**
 You arrive at the cave and start searching. Inside, you find an old map leading to the key. 
 **Map:** "Follow the path of echoes to find the key."
-- **B1a)** Follow the map.
-- **B1b)** Explore the cave first.
+- **B1a)** Follow the map. (Ending 1)
+- **B1b)** Explore the cave first. (Scene 3A1: The Cave Adventure)
 
 #### **Scene 3B2: Asking for Help**
 The historian tells you about an ancient forest where the key might be hidden. 
 **Historian:** "Beware of the forest spirits; they guard the key."
-- **B2a)** Venture into the forest.
-- **B2b)** Take a day to prepare before going.
+- **B2a)** Venture into the forest. (Ending 3)
+- **B2b)** Take a day to prepare before going. (Ending 3)
 
 ---
 
