@@ -82,5 +82,37 @@
   height: 200px;
   width: 55%;
   margin: auto;
-  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+}
+.choiceA {
+  background-color: grey;
+  height: 100px;
+  width: 250px;
+  text-align: center;
+}
+.choiceA h1 {
+  margin: auto;
+  color: aliceblue;
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
+.choiceB {
+  background-color: grey;
+  height: 100px;
+  width: 250px;
+  text-align: center;
+}
+.choiceB h1 {
+  margin: auto;
+  color: aliceblue;
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
+.answer-Box a{
+    text-decoration: none;
 }
