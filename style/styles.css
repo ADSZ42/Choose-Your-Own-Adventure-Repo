@@ -284,3 +284,25 @@ body.ending4 {
 body.ending2 h1 {
   background-color: rgba(255, 255, 255, 0.349);
 }
+
+/* Anthony Duran */
+.TxtClAD{
+  color: white;
+}
+
+.backgroundDef{
+background-color: black;
+}
+
+.imgCont{
+height: 500px;
+width: 600px;
+text-align: center;
+}
+
+.centerAD{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 35%;
+}
