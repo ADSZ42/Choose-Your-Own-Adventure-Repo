@@ -287,22 +287,33 @@ body.ending2 h1 {
 
 /* Anthony Duran */
 .TxtClAD{
-  color: white;
+  background-color: lightgray;
+  }
+
+.optspace {
+  height: 30px;
+  width: 30%;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.backgroundDef{
-background-color: black;
+.scene4{
+  background: url(../Assets/pt3/caveglow.jpeg) no-repeat center fixed;
+  background-size: cover;
 }
 
-.imgCont{
-height: 500px;
-width: 600px;
-text-align: center;
+.scene5{
+  background: url(../Assets/pt3/mysterious-dark-hallway-stockcake.jpg) no-repeat center fixed;
+  background-size: cover;
 }
 
-.centerAD{
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 35%;
+.scene6{
+  background: url(../Assets/pt3/cave.png) no-repeat center fixed;
+  background-size: cover;
+}
+
+.scene7{
+  background: url(../Assets/pt3/forrest\ path\ p.jpg) no-repeat center fixed;
+  background-size: cover;
 }
