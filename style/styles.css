@@ -121,26 +121,117 @@
 
 .scene2-Body{
     background-color: black;
+    
 }
-.img-container3{
+.img-container-Scene2{
+    background-color: aliceblue;
+    width: 900px;
+    height: 600px;
     margin: auto;
     position: relative;
 
 }
-.scene3-Text-container{
+.img-container-Scene2 img{
+   width: 100%;
+   height: 100%;
+}
+.scene2-Text-container{
     position: absolute;
     text-align: center;
     background-color: grey;
-    opacity: 80%;
-    margin-top: 10%;
+    opacity:85%;
     width: 900px;
+    height: 200px;
+    top: 30%;
 }
-.scene3-Text-container h1{
+.scene2-Text-container h1{
     color: yellow;
     font-size: 30px;
 }
-.scene4-button{
-    background-color: aliceblue;
-    width: 500px;
+.scene2-button{
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
 }
+.scene2-choice1{
+    height: 100px;
+    width: 200px;
+    background-color: grey;
+}
+.scene2-choice1 h1{
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+}
+.scene2-choice2{
+    height: 100px;
+    width: 200px;
+    background-color: grey;
+}
+.scene2-choice2 h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+}
+.scene2-button a{
+    text-decoration: none;
+}
+/*Scene 3 Chris Wells-Hott*/
+.scene-3-body{
+    background-color: black;
+}
+.cave-img-container{
+    width: 900px;
+    height: 600px;
+    margin: auto;
+    position: relative;
+}
+.cave-img-container img{
+    height: 100%;
+    width: 100%;
+    opacity: 60%;
+}
+.scene3-text{
+    position: absolute;
+    top: 1.5em;
+}
+.scene3-text h1{
+    color: aliceblue;
+    text-align: center;
+}
+.scene3-buttons{
+    display: flex;
+    justify-content: space-evenly;
+    width: 800px;
+    padding-top: 20px;
+    margin: auto;
+}
+.scene3-choice1{
+    background-color: aqua;
+    height: 70px;
 
+}
+.scene3-choice1 h1{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: auto;
+}
+.scene3-choice2{
+    background-color: aqua;
+    height: 70px;
+}
+.scene3-choice2 h1{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.scene3-buttons a{
+    text-decoration: none;
+}
