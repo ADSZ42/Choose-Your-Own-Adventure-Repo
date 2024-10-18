@@ -69,3 +69,6 @@ If you venture into the forest (Scene 3B2a) and face the spirits bravely, they g
 
 #### **Ending 4: Cursed (Bad Ending)**
 If you fail the riddle (Scene 3A1b) you are curesed and live the rest of your life with the curse.
+
+This has been Peer Reviewed by Gianpaolo Reinares:
+> Comments: Enjoyable Story; Code is functioning; Reminds me of some games I used to play when I was younger; Two buttons are spilling out of their boxes; besides that, everything else is great.
